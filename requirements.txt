@@ -1,0 +1,3 @@
+cozmo>=0.9.0
+cozmoclad>=1.1.0
+Pillow>=3.4.2
